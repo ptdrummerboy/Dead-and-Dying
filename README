@@ -1,0 +1,33 @@
+/**********************************************************
+ *This is the readme file for the Dead-and-Dying project:
+ *
+ *Date Started: 6-30-2011
+ *
+ *Project Leader: Murray Gros
+ *
+ *Project People: 
+ *	Patrick Thorne II - Programmer
+ *
+ *This will be a platform-esque game in order to help those
+ *interested in game design to get experience in programming,
+ *designing, writing music, and doing whatever else is
+ *involved in making a game from the ground up. Any ideas
+ *are welcome and kept track of in this file. Add your name
+ *if you make a valuable contribution to the project.
+ ***********************************************************/
+
+Versions:
+
+Version 0.1	Accomplished:
+			Getting initial files and git repository set up for making the start of the game.
+			Made up the README file.
+		Goals for next version:
+			Update the README with proper information
+			Get some basic code structure started
+
+
+
+
+
+//Any additional comments or concerns can be expressed to Murray Gros at his facebook, or
+//Patrick Thorne at ptdrummerboy@gmail.com.
